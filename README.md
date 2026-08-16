@@ -1,145 +1,218 @@
 <div align="center">
-  
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C7B7&height=200&section=header&text=Rakshak%20Patel%20V&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20%26%20Flutter%20%E2%80%A2%20GenAI%20Explorer&descAlignY=55&descSize=16" width="100%"/>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:6C63FF,50:7B68EE,100:00C7B7&text=Rakshak%20Patel%20V&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20|%20Flutter%20|%20Generative%20AI&descAlignY=55"/>
 
-<a href="https://www.linkedin.com/in/rakshak-patel-v-12b2b624a">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:rakshakpatel2005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://instagram.com/rakshak_2005">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00C7B7&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Products;React+%7C+Node.js+%7C+MongoDB;Flutter+Developer;Exploring+Generative+AI;Always+Learning.+Always+Shipping.)](https://git.io/typing-svg)
 
 <br>
 
-<table width="100%">
+<a href="https://www.linkedin.com/in/rakshak-patel-v-12b2b624a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rakshakpatel2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/rakshak_2005">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=rakshak2005&style=for-the-badge&color=6C63FF"/>
+
+</div>
+
+---
+
+# About Me
+
+I'm a **Computer Science Engineering student** passionate about building products that solve real-world problems.
+
+Instead of building tutorial projects, I focus on creating complete applications with authentication, backend APIs, databases, and modern UI.
+
+- Building **MERN Stack** applications
+- Developing **Flutter** mobile apps
+- Exploring **Generative AI** integrations
+- Learning **Java Full Stack Development**
+- Participating in hackathons and internships
+
+---
+
+# Tech Stack
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,ts,vite,figma&theme=dark"/>
+</p>
+
+## Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql&theme=dark"/>
+</p>
+
+## Mobile
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark"/>
+</p>
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,ts,dart&theme=dark"/>
+</p>
+
+## Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vercel,render,netlify,docker&theme=dark"/>
+</p>
+
+---
+
+# Featured Projects
+
+<table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%">
 
-### 👋 About Me
+## AMC Campus Connect
 
-I'm a **Computer Science student** who builds full-stack products end to end — from the database to the UI, and increasingly, with AI baked in.
+Full-stack college platform with chatbot integration.
 
-- 🔐 Building **MERN** apps with real auth/authz, not just tutorials
-- 📱 Shipping **Flutter** apps for real-world use cases
-- 🤖 Wiring **Generative AI** into everyday product features
-- 🌱 Always learning in public, always shipping
+**Tech**
 
-**Open to collaborating on:**
-> Open-source projects & hackathons in Web Dev / AI, and anything that mixes creativity with code.
+React • Node.js • MongoDB • Firebase • Botpress
 
 </td>
-<td width="40%" valign="top" align="center">
 
-### 🎯 Quick Facts
+<td width="50%">
 
-| | |
-|---|---|
-| 🎓 | Computer Science Student |
-| 💼 | Aspiring Full-Stack Developer |
-| 🧠 | MERN Stack & Flutter (In Progress) |
-| ✨ | Exploring Generative AI |
-| 📍 | India |
+## Shortify
+
+Modern URL Shortener with analytics dashboard.
+
+**Tech**
+
+React • TypeScript • Express • MongoDB
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+## GeoBuss
+
+Flutter app that automatically changes phone profile based on location.
+
+**Tech**
+
+Flutter • Firebase • GPS
+
+</td>
+
+<td>
+
+## Siksha Sethu
+
+Scholarship finder platform helping students discover opportunities.
+
+**Tech**
+
+React • Firebase
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-## 🧰 Tech Stack
+# Currently Working On
 
-<table width="100%">
-<tr><td align="center"><b>Frontend</b></td></tr>
-<tr><td align="center">
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,flutter,vite,figma&theme=dark"/>
-</td></tr>
-</table>
+- Learning **Java Full Stack Development**
+- Building AI-powered web applications
+- Improving DSA in Java
+- Creating production-ready MERN projects
 
-<table width="100%">
-<tr><td align="center"><b>Backend & Data</b></td></tr>
-<tr><td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,mysql&theme=dark"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-</td></tr>
-</table>
+---
 
-<table width="100%">
-<tr><td align="center"><b>Languages</b></td></tr>
-<tr><td align="center">
-<img src="https://skillicons.dev/icons?i=java,js,ts,dart&theme=dark"/>
-</td></tr>
-</table>
-
-<table width="100%">
-<tr><td align="center"><b>Deploy & Tools</b></td></tr>
-<tr><td align="center">
-<img src="https://skillicons.dev/icons?i=vercel,git,github&theme=dark"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</td></tr>
-</table>
-
-<br>
-
-## 📊 GitHub Stats
+# GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rakshak2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=rakshak2005&theme=tokyonight&hide_border=true" height="165"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rakshak2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshak2005&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img height="170" src="https://streak-stats.demolab.com?user=rakshak2005&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br>
-
-## 🐍 Contribution Snake
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rakshak2005/rakshak2005/output/github-contribution-grid-snake.svg" width="100%"/>
-
-<sub>⚙️ This animates automatically once the snake GitHub Action below is added to your repo</sub>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshak2005&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br>
+---
 
-## ✍️ Dev Quote
+# Contribution Graph
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshak2005&theme=tokyo-night&hide_border=true"/>
+</p>
 
+---
+
+# Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rakshak2005/rakshak2005/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# Dev Quote
+
+<p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
-</div>
+---
 
-<br>
+# Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rakshak2005&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+# Let's Connect
+
+I'm always interested in collaborating on:
+
+- Open Source
+- MERN Stack Projects
+- Flutter Apps
+- AI Integrations
+- Hackathons
 
 <div align="center">
 
-### 🤝 Let's Build Something
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rakshak-patel-v-12b2b624a)
 
-I'm always up for collaborating on open-source, hackathons, or anything that mixes **AI + Full-Stack Development**.
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:rakshakpatel2005@gmail.com)
 
-<a href="https://www.linkedin.com/in/rakshak-patel-v-12b2b624a">LinkedIn</a> · 
-<a href="mailto:rakshakpatel2005@gmail.com">Email</a> · 
-<a href="https://instagram.com/rakshak_2005">Instagram</a>
+</div>
 
-<br><br>
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=rakshak2005&color=6C63FF&style=flat-square&label=Profile+Views)
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:6C63FF&height=120&section=footer" width="100%"/>
+*"Code. Learn. Build. Repeat."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C7B7,100:6C63FF"/>
 
 </div>
