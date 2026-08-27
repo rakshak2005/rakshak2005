@@ -3,12 +3,7 @@
 <!-- HERO BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,35:161b22,70:6366f1,100:06b6d4&text=RAKSHAK%20PATEL%20V&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Architect%20%E2%80%A2%20Flutter%20Engineer%20%E2%80%A2%20AI%20Specialist&descSize=18&descAlignY=58"/>
 
-<!-- DYNAMIC TYPING -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=3000&pause=1200&color=00F5A0&center=true&vCenter=true&width=800&lines=%E2%9E%A4+Architecting+Scalable+Full-Stack+Web+Platforms;%E2%9E%A4+MERN+Stack+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js;%E2%9E%A4+Crafting+High-Performance+Flutter+Mobile+Apps;%E2%9E%A4+Building+Intelligent+Generative+AI+Integrations;%E2%9E%A4+Turning+complex+logic+into+production-ready+software." alt="Typing SVG" />
-</a>
-
-<br/><br/>
+<br/>
 
 <!-- PRIMARY CTA BADGES & SOCIALS -->
 <a href="https://rp-portfolio-u765.vercel.app/" target="_blank">
@@ -34,8 +29,6 @@
 <a href="https://github.com/rakshak2005" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=rakshak2005&style=for-the-badge&color=00f5a0&label=SYS+TRAFFIC" alt="Profile Views" />
 
 </div>
 
