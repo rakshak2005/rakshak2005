@@ -10,7 +10,15 @@
 
 <br/><br/>
 
-<!-- BADGES -->
+<!-- PRIMARY CTA BADGES & SOCIALS -->
+<a href="https://rp-portfolio-u765.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Live_Portfolio-00F5A0?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://rp-portfolio-u765.vercel.app/projects" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Project_Showcase-6366F1?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Projects Showcase" />
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/rakshak-patel-v-12b2b624a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -44,6 +52,8 @@
   🎓 EDUCATION      : B.E. in Computer Science & Engineering (2023 - Present)
   ⚡ CORE STACK     : Full-Stack Web (MERN), Cross-Platform Mobile (Flutter), Java
   🧠 AI & CLOUD     : Generative AI, LLM Integration, Firebase, RESTful APIs
+  🌐 LIVE PORTFOLIO : https://rp-portfolio-u765.vercel.app/
+  📂 SHOWCASE       : https://rp-portfolio-u765.vercel.app/projects
   📍 LOCATION       : Bengaluru, India
   🎯 MISSION        : Transforming complex logic into frictionless, high-impact products
   ⚙️ STATUS         : [🟢 ACTIVE] | Open for High-Impact Projects & Hackathons
@@ -122,6 +132,14 @@
 ---
 
 ### 🌟 FEATURED INNOVATIONS & PROJECTS
+
+<div align="center">
+  <a href="https://rp-portfolio-u765.vercel.app/projects" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_Explore_Full_Interactive_Project_Showcase-6366F1?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="All Projects" />
+  </a>
+</div>
+
+<br/>
 
 <table>
   <tr>
@@ -266,9 +284,17 @@
 
 <p>
   <b>Looking to build something game-changing or have an exciting opportunity?</b><br/>
-  Let's connect and turn ambitious visions into shipped reality.
+  Explore my interactive portfolio or reach out directly to collaborate!
 </p>
 
+<a href="https://rp-portfolio-u765.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Live_Portfolio-00F5A0?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://rp-portfolio-u765.vercel.app/projects" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Project_Showcase-6366F1?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Showcase"/>
+</a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rakshak-patel-v-12b2b624a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
