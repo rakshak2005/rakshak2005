@@ -235,10 +235,10 @@
   </tr>
 </table>
 
-<br/>
-
-#### 🐍 REPOSITORY CONTRIBUTION SNAKE
-<img width="100%" src="https://raw.githubusercontent.com/rakshak2005/rakshak2005/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+#### 📊 CONTRIBUTION CALENDAR
+<a href="https://github.com/rakshak2005">
+  <img width="100%" src="https://ghchart.rshah.org/40c463/rakshak2005" alt="Rakshak's GitHub Contributions Chart" />
+</a>
 
 </div>
 
