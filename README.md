@@ -235,11 +235,6 @@
   </tr>
 </table>
 
-#### 📊 CONTRIBUTION CALENDAR
-<a href="https://github.com/rakshak2005">
-  <img width="100%" src="https://ghchart.rshah.org/40c463/rakshak2005" alt="Rakshak's GitHub Contributions Chart" />
-</a>
-
 </div>
 
 ---
