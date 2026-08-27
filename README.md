@@ -7,11 +7,11 @@
 
 <!-- PRIMARY CTA BADGES & SOCIALS -->
 <a href="https://rp-portfolio-u765.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Live_Portfolio-00F5A0?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Live_Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
 </a>
 &nbsp;
 <a href="https://rp-portfolio-u765.vercel.app/projects" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_Project_Showcase-6366F1?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Projects Showcase" />
+  <img src="https://img.shields.io/badge/Projects_Showcase-6366F1?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Projects Showcase" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/rakshak-patel-v-12b2b624a" target="_blank">
@@ -237,18 +237,8 @@
 
 <br/>
 
-#### 📈 REAL-TIME COMMIT VELOCITY
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rakshak2005&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-
-<br/><br/>
-
 #### 🐍 REPOSITORY CONTRIBUTION SNAKE
-<img width="98%" src="https://raw.githubusercontent.com/rakshak2005/rakshak2005/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
-<br/><br/>
-
-#### 🏆 PROFILE TROPHIES
-<img src="https://github-profile-trophy.vercel.app/?username=rakshak2005&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+<img width="100%" src="https://raw.githubusercontent.com/rakshak2005/rakshak2005/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 </div>
 
@@ -281,11 +271,11 @@
 </p>
 
 <a href="https://rp-portfolio-u765.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Live_Portfolio-00F5A0?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Live_Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://rp-portfolio-u765.vercel.app/projects" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_Project_Showcase-6366F1?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Showcase"/>
+  <img src="https://img.shields.io/badge/Projects_Showcase-6366F1?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Showcase"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rakshak-patel-v-12b2b624a" target="_blank">
