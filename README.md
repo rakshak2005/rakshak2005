@@ -1,91 +1,78 @@
-<!-- ========================================== -->
-<!-- 🚀 ULTRA-PREMIUM DEVELOPER PROFILE: RAKSHAK PATEL V -->
-<!-- Designed with Linear/Vercel Dark-Mode Aesthetics -->
-<!-- ========================================== -->
-
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0:09090b,30:18181b,70:4f46e5,100:06b6d4&text=RAKSHAK%20PATEL%20V&fontSize=44&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Architect%20%E2%80%A2%20AI%20Specialist&descSize=16&descAlign=50&descAlignY=70&stroke=00000000" alt="Rakshak Banner"/>
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,35:161b22,70:6366f1,100:06b6d4&text=RAKSHAK%20PATEL%20V&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Architect%20%E2%80%A2%20Flutter%20Engineer%20%E2%80%A2%20AI%20Specialist&descSize=18&descAlignY=58"/>
 
 <!-- DYNAMIC TYPING -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=3000&pause=1200&color=00F5A0&center=true&vCenter=true&width=750&lines=%E2%9E%A4+Architecting+Modern+Full-Stack+Platforms;%E2%9E%A4+MERN+Stack+%E2%80%A2+TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Node.js;%E2%9E%A4+Crafting+High-Performance+Flutter+Mobile+Apps;%E2%9E%A4+Building+Intelligent+AI-Powered+Microservices;%E2%9E%A4+Obsessed+with+Clean+Architecture+%26+Flawless+UX." alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=3000&pause=1200&color=00F5A0&center=true&vCenter=true&width=800&lines=%E2%9E%A4+Architecting+Scalable+Full-Stack+Web+Platforms;%E2%9E%A4+MERN+Stack+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js;%E2%9E%A4+Crafting+High-Performance+Flutter+Mobile+Apps;%E2%9E%A4+Building+Intelligent+Generative+AI+Integrations;%E2%9E%A4+Turning+complex+logic+into+production-ready+software." alt="Typing SVG" />
+</a>
 
-<!-- STATS PILLS / SOCIALS -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/rakshak-patel-v-12b2b624a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:rakshakpatel2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/rakshak_2005" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=rakshak2005&style=for-the-badge&color=00f5a0&label=SYS+TRAFFIC" alt="Profile Views" />
-</p>
+<br/><br/>
+
+<!-- BADGES -->
+<a href="https://www.linkedin.com/in/rakshak-patel-v-12b2b624a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:rakshakpatel2005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+&nbsp;
+<a href="https://instagram.com/rakshak_2005" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+&nbsp;
+<a href="https://github.com/rakshak2005" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=rakshak2005&style=for-the-badge&color=00f5a0&label=SYS+TRAFFIC" alt="Profile Views" />
 
 </div>
+
+<br/>
 
 ---
 
 ### 💻 SYSTEM TERMINAL `[v2.5.0]`
 
-```zsh
-❯ neofetch --developer
-```
-
 ```yaml
-  root@rakshak-node:~$ systeminfo
+  ❯ neofetch --developer
   ─────────────────────────────────────────────────────────────────────────────
   👨‍💻 IDENTITY       : Rakshak Patel V
   🎓 EDUCATION      : B.E. in Computer Science & Engineering (2023 - Present)
-  ⚡ CORE PROFICIENCY: Full-Stack Web (MERN), Cross-Platform Mobile (Flutter), Java
-  🧠 AI & CLOUD     : Generative AI, LLM Integration, Firebase, Microservices
-  📍 LOCATION       : India 🇮🇳
+  ⚡ CORE STACK     : Full-Stack Web (MERN), Cross-Platform Mobile (Flutter), Java
+  🧠 AI & CLOUD     : Generative AI, LLM Integration, Firebase, RESTful APIs
+  📍 LOCATION       : Bengaluru, India
   🎯 MISSION        : Transforming complex logic into frictionless, high-impact products
+  ⚙️ STATUS         : [🟢 ACTIVE] | Open for High-Impact Projects & Hackathons
+  ☕ FUEL           : Coffee & Continuous Curiosity
   ─────────────────────────────────────────────────────────────────────────────
-  ⚙️  STATUS        : [🟢 ONLINE] | Open for High-Impact Projects & Hackathons
-  ☕ FUEL          : Black Coffee & Infinite Curiosity
 ```
 
 ---
 
-### 🔮 CORE EXPERTISE & CAPABILITIES
+### 🔮 CORE SPECIALIZATIONS
 
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Full Stack" width="50" height="50" />
-      <h3>Full-Stack Mastery</h3>
+      <h3>🌐 Full-Stack Web</h3>
       <p align="left">
-        End-to-end web engineering leveraging <b>React, TypeScript, Node.js, Express & MongoDB</b>. Specialized in robust REST APIs, JWT authentication, and responsive state flows.
+        End-to-end engineering with <b>React, TypeScript, Node.js, Express & MongoDB</b>. Crafting robust REST APIs, JWT authentication, and high-performance reactive interfaces.
       </p>
     </td>
     <td width="33%" align="center" valign="top">
-      <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Dev" width="50" height="50" />
-      <h3>Mobile Engineering</h3>
+      <h3>📱 Mobile Engineering</h3>
       <p align="left">
-        Native-feeling cross-platform mobile apps with <b>Flutter & Dart</b>. Integrating background geolocation, hardware profile switches, and Firebase real-time sync.
+        Cross-platform mobile apps with <b>Flutter & Dart</b>. Implementing background geolocation services, hardware profile management, and Firebase real-time data sync.
       </p>
     </td>
     <td width="33%" align="center" valign="top">
-      <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="AI & Logic" width="50" height="50" />
-      <h3>AI & Systems</h3>
+      <h3>🤖 AI & Core Systems</h3>
       <p align="left">
-        Integrating <b>Generative AI & Chatbot agents</b> directly into production workflows. Deep algorithmic problem solving with <b>Java</b> and efficient data structures.
+        Integrating <b>Generative AI & Chatbot agents</b> into production apps. Deep algorithmic problem solving with <b>Java</b> and optimized data structures.
       </p>
     </td>
   </tr>
@@ -99,31 +86,31 @@
 
 <table>
   <tr>
-    <td align="center" width="20%"><b>Languages</b></td>
+    <td align="center" width="22%"><b>⚡ Languages</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=java,ts,js,dart,python,cpp,html,css&theme=dark" alt="Languages" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%"><b>Frontend & UI</b></td>
+    <td align="center" width="22%"><b>🌐 Frontend & UI</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,bootstrap,figma&theme=dark" alt="Frontend" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%"><b>Backend & DB</b></td>
+    <td align="center" width="22%"><b>⚙️ Backend & DB</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase,prisma&theme=dark" alt="Backend" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%"><b>Mobile & App</b></td>
+    <td align="center" width="22%"><b>📱 Mobile & App</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" alt="Mobile" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%"><b>DevOps & Tools</b></td>
+    <td align="center" width="22%"><b>🚀 DevOps & Tools</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,render,linux,vscode&theme=dark" alt="Tools" />
     </td>
@@ -134,7 +121,7 @@
 
 ---
 
-### 🚀 FEATURED INNOVATIONS
+### 🌟 FEATURED INNOVATIONS & PROJECTS
 
 <table>
   <tr>
@@ -224,15 +211,15 @@
 <table border="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rakshak2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F5A0&icon_color=4F46E5&text_color=94A3B8&count_private=true" height="175" alt="Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rakshak2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=rakshak2005&theme=tokyonight&hide_border=true&background=00000000&ring=4F46E5&fire=00F5A0&currStreakLabel=00F5A0&sideLabels=94A3B8&dates=64748B" height="175" alt="Streak" />
+      <img src="https://streak-stats.demolab.com?user=rakshak2005&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshak2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F5A0&text_color=94A3B8" height="165" alt="Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshak2005&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -240,17 +227,17 @@
 <br/>
 
 #### 📈 REAL-TIME COMMIT VELOCITY
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rakshak2005&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00F5A0&line=4F46E5&point=00F5A0" alt="Activity Graph" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rakshak2005&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 
 <br/><br/>
 
 #### 🐍 REPOSITORY CONTRIBUTION SNAKE
-<img width="98%" src="https://raw.githubusercontent.com/rakshak2005/rakshak2005/output/github-contribution-grid-snake.svg" alt="Snake" />
+<img width="98%" src="https://raw.githubusercontent.com/rakshak2005/rakshak2005/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 <br/><br/>
 
 #### 🏆 PROFILE TROPHIES
-<img src="https://github-profile-trophy.vercel.app/?username=rakshak2005&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&bg_color=00000000" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=rakshak2005&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 
 </div>
 
@@ -258,16 +245,18 @@
 
 ### ⚡ CURRENT RADAR & SPRINT OBJECTIVES
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ 🎯 SPRINT FOCUS                                                             │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ ├── ☕ Master Enterprise Java Architecture & Spring Boot                    │
-│ ├── 🤖 Build LLM-powered Autonomous Agent Systems                           │
-│ ├── ⚡ Scale production-ready microservices with Docker & Redis             │
-│ └── 📈 Master advanced algorithmic problem solving (DSA in Java)            │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>☕ <b>Master Enterprise Java Architecture:</b> Diving deep into Spring Boot & Microservices</li>
+        <li>🤖 <b>Autonomous Agent Systems:</b> Building LLM-powered workflows and AI toolings</li>
+        <li>⚡ <b>Cloud Infrastructure:</b> Scaling production microservices with Docker, Redis & CI/CD</li>
+        <li>📈 <b>Algorithmic Mastery:</b> Advanced problem solving with Data Structures & Algorithms in Java</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -295,14 +284,14 @@
 <br/><br/>
 
 <!-- DYNAMIC DEV QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=00000000&border_color=4F46E5" alt="Daily Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Dev Quote" />
 
 <br/><br/>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=120&section=footer&color=0:06b6d4,30:4f46e5,70:18181b,100:09090b"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:6366f1,100:0d1117"/>
 
 <br/>
-<sub>Designed with passion & precision • <b>Rakshak Patel V</b> • © 2026</sub>
+<sub>Designed with precision & passion • <b>Rakshak Patel V</b> • © 2026</sub>
 
 </div>
